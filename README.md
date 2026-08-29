@@ -1,5 +1,9 @@
-### 👋 **Hi there**
+### 👋 Hey, I’m Alexis
 
-[![](https://img.shields.io/badge/Website-alexiszamanidis.com-yellow?&style=flat-square)](https://alexiszamanidis.com/)
-[![](https://img.shields.io/badge/LinkedIn-alexiszamanidis-blue?&style=flat-square)](https://www.linkedin.com/in/alexiszamanidis/)
-[![](https://img.shields.io/badge/Email-alexiszamanidis%40outlook.com-red?&style=flat-square)](mailto:alexiszamanidis@outlook.com)
+Ah, you’re here to see what I’ve been up to
+
+Understandable. I would too 😌
+
+Here’s the evidence
+
+[🌐 Website](https://alexiszamanidis.com/) · [💼 LinkedIn](https://www.linkedin.com/in/alexiszamanidis/) · [📝 DEV.to](https://dev.to/alexiszamanidis) · [✉️ Email](mailto:alexiszamanidis@outlook.com)
